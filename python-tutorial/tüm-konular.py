@@ -152,7 +152,7 @@ else:
 
 print("\n\n")
 
-### Listeler
+## Listeler
 ### Herhangi bir tipte değeri (bool, str, float vs) tutabilirler. 
 ### Aynı eleman iki kez bulunabilir.
 
@@ -255,8 +255,8 @@ print("\n\n")
 
 ## Döngüler
 
-for i in range(1, 10):
-    print("Adım:",i)
+for i in range(1, 10, 2):
+    print("Adım:", i)
 
 print("\n\n")
 
