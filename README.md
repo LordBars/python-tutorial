@@ -9,4 +9,4 @@
   bağımsız olarak da kullanılabilir. 
 * Gelecekte yeni konular ve düzenlemeler yapılacaktır.
 
-* İyi Dersler!
+İyi Dersler!
